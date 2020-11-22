@@ -1,0 +1,58 @@
+*{
+	font-family: texturina;
+}
+
+h1{
+		font-family: texturina;
+		text-align: center;
+		background-color: black;
+		color: white;
+		padding: 30px;
+}
+P{
+	font-family: texturina;
+	margin-left: 50px;
+	margin-right: 40px;
+	margin-top: 30px;
+
+}
+hr{ border: 3px solid black;
+ 
+ }
+ img{
+ 	border-radius: 50%;
+ 	margin-top: 50px;
+ 	
+ }
+ footer{ font-family: texturina;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 5px;
+		margin-top: 50px;
+		border-bottom: width = 100%;
+
+}
+header{
+	background-color: black;
+	padding: 10px;
+}
+ul{
+	list-style: none;
+}
+  li{
+  	display: inline;
+  	margin: 100px;
+
+
+  }
+  li a {
+  	color: white;
+  	text-decoration: none;
+  }
+  li a:hover {
+  	/*color: red;*/
+  	color: red;
+  	text-decoration;
+  	text-decoration: underline;
+  }
